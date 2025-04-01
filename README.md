@@ -2,4 +2,4 @@
 
 ## Author
 
-- (Stephen-matheka)[https://github.com/Stephen-matheka]
+- [Stephen-matheka](https://github.com/Stephen-matheka)
